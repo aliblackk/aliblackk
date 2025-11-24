@@ -9,7 +9,7 @@ I work with **Data Science, Machine Learning and NLP** applications
 - 🎓 **BSc in Big Data Analysis 25'**, Astana IT University   
 - 🔭 Currently working as: **Lead IT Specialist @ Bank CenterCredit**  
 - 🌱 Learning: **Data Engineering, MLOps**  
-- 👯 Open to collaborate on: **ML projects, DS research, analytics platforms, backend systems**  
+- 👯 Open to collaborate on: **ML, NLP projects, DS research**  
 - 💬 Ask me about: **Python, ML models, EDA, DS pipelines**  
 - 📫 Contact me: **alibek.musabek@gmail.com**  
 
@@ -17,10 +17,10 @@ I work with **Data Science, Machine Learning and NLP** applications
 
 ## 🧰 Tech Stack
 
-***Languages:*** Python, SQL, NoSQL (MongoDB)  
-***Libraries:*** pandas, NumPy, SciPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, FastApi, Faiss, Langchain
-***Techniques:*** EDA, Feature Engineering, Regression & Classification, Model Evaluation  
-***Tools:*** Docker, Jupyter, Grafana, Zabbix, Git, Vs Code
+***Languages:*** ***Python, SQL, NoSQL (MongoDB)***
+***Libraries:*** ***pandas, NumPy, SciPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, FastApi, Faiss, Langchain***
+***Techniques:*** ***EDA, Feature Engineering, Regression & Classification, Model Evaluation*** 
+***Tools:*** ***Docker, Jupyter, Grafana, Zabbix, Git, Vs Code***
 ---
 
 ## 📊 GitHub Stats
