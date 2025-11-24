@@ -26,13 +26,6 @@ I work with **Data Science, Machine Learning and NLP** applications
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliblackk&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackk&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 - **LinkedIn:** *https://www.linkedin.com/in/aliblackqq/*  
 
