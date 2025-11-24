@@ -17,10 +17,13 @@ I work with **Data Science, Machine Learning and NLP** applications
 
 ## 🧰 Tech Stack
 
-***Languages:*** ***Python, SQL, NoSQL (MongoDB)***
-***Libraries:*** ***pandas, NumPy, SciPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, FastApi, Faiss, Langchain***
-***Techniques:*** ***EDA, Feature Engineering, Regression & Classification, Model Evaluation*** 
-***Tools:*** ***Docker, Jupyter, Grafana, Zabbix, Git, Vs Code***
+| **Category** | **Skills** |
+|--------------|------------|
+| Languages | Python, SQL, NoSQL (MongoDB) |
+| Libraries | pandas, NumPy, SciPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, FastAPI, Faiss, LangChain |
+| Techniques | EDA, Feature Engineering, Regression & Classification, Model Evaluation |
+| Tools | Docker, Jupyter, Grafana, Zabbix, Git, VS Code |
+
 ---
 
 ## 📊 GitHub Stats
@@ -32,4 +35,5 @@ I work with **Data Science, Machine Learning and NLP** applications
 
 ## 🌐 Connect With Me
 - **LinkedIn:** *https://www.linkedin.com/in/aliblackqq/*  
+
 ---
