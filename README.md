@@ -20,9 +20,9 @@ I work with **Data Science, Machine Learning and NLP** applications
 | **Category** | **Skills** |
 |--------------|------------|
 | Languages | Python, SQL, NoSQL (MongoDB) |
-| Libraries | pandas, NumPy, SciPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, FastAPI, Faiss, LangChain |
+| Libraries | pandas, NumPy, SciPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, FastAPI, Faiss, LangChain, Ollama |
 | Techniques | EDA, Feature Engineering, Regression & Classification, Model Evaluation, NER, CV |
-| Tools | Docker, CI|CD , Jupyter, Grafana, Zabbix, Git, VS Code |
+| Tools | Docker, CI/CD , Jupyter, Grafana, Zabbix, Git, VS Code, PyCharm |
 
 ---
 
