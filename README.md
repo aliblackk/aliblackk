@@ -8,9 +8,7 @@ I work with **Data Science, Machine Learning and NLP** applications
 ## 🚀 About Me
 - 🎓 **BSc in Big Data Analysis 25'**, Astana IT University   
 - 🔭 Currently working as: **Lead IT Specialist @ Bank CenterCredit**  
-- 🌱 Learning: **Data Engineering, MLOps**  
 - 👯 Open to collaborate on: **ML, NLP projects and DS research**  
-- 💬 Ask me about: **Python, ML&NLP models, EDA and DS pipelines**  
 - 📫 Contact me: **alibek.musabek@gmail.com**  
 
 ---
